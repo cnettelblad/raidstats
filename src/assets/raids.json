@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Karazhan",
+    "slug": "karazhan",
+    "bosses": [
+      {
+        "id": 652,
+        "name": "Attumen the Huntsman"
+      },
+      {
+        "id": 653,
+        "name": "Moroes"
+      },
+      {
+        "id": 654,
+        "name": "Maiden of Virtue"
+      },
+      {
+        "id": 655,
+        "name": "Opera Hall"
+      },
+      {
+        "id": 656,
+        "name": "The Curator"
+      },
+      {
+        "id": 657,
+        "name": "Terestian Illhoof"
+      },
+      {
+        "id": 658,
+        "name": "Shade of Aran"
+      },
+      {
+        "id": 659,
+        "name": "Netherspite"
+      },
+      {
+        "id": 661,
+        "name": "Prince Malchezaar"
+      },
+      {
+        "id": 662,
+        "name": "Nightbane"
+      }
+    ]
+  },
+  {
+    "name": "Magtheridon's Lair",
+    "slug": "magtheridons-lair",
+    "bosses": [
+      {
+        "id": 651,
+        "name": "Magtheridon"
+      }
+    ]
+  },
+  {
+    "name": "Gruul's Lair",
+    "slug": "gruuls-lair",
+    "bosses": [
+      {
+        "id": 649,
+        "name": "High King Maulgar"
+      },
+      {
+        "id": 650,
+        "name": "Gruul the Dragonkiller"
+      }
+    ]
+  },
+  {
+    "name": "Serpentshrine Cavern",
+    "slug": "serpentshrine-cavern",
+    "bosses": [
+      {
+        "id": 623,
+        "name": "Hydross the Unstable"
+      },
+      {
+        "id": 624,
+        "name": "The Lurker Below"
+      },
+      {
+        "id": 625,
+        "name": "Leotheras the Blind"
+      },
+      {
+        "id": 626,
+        "name": "Fathom-Lord Karathress"
+      },
+      {
+        "id": 627,
+        "name": "Morogrim Tidewalker"
+      },
+      {
+        "id": 628,
+        "name": "Lady Vashj"
+      }
+    ]
+  },
+  {
+    "name": "Tempest Keep",
+    "slug": "tempest-keep",
+    "bosses": [
+      {
+        "id": 730,
+        "name": "Al'ar"
+      },
+      {
+        "id": 731,
+        "name": "Void Reaver"
+      },
+      {
+        "id": 732,
+        "name": "High Astromancer Solarian"
+      },
+      {
+        "id": 733,
+        "name": "Kael'thas Sunstrider"
+      }
+    ]
+  }
+]

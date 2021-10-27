@@ -1,0 +1,962 @@
+[
+  {
+    "compactName": "US",
+    "servers": [
+      {
+        "id": 5079,
+        "slug": "anathema",
+        "name": "Anathema"
+      },
+      {
+        "id": 5095,
+        "slug": "arcanite-reaper",
+        "name": "Arcanite Reaper"
+      },
+      {
+        "id": 5001,
+        "slug": "arugal",
+        "name": "Arugal"
+      },
+      {
+        "id": 5061,
+        "slug": "ashkandi",
+        "name": "Ashkandi"
+      },
+      {
+        "id": 5000,
+        "slug": "atiesh",
+        "name": "Atiesh"
+      },
+      {
+        "id": 5069,
+        "slug": "azuresong",
+        "name": "Azuresong"
+      },
+      {
+        "id": 5068,
+        "slug": "benediction",
+        "name": "Benediction"
+      },
+      {
+        "id": 5036,
+        "slug": "bigglesworth",
+        "name": "Bigglesworth"
+      },
+      {
+        "id": 5027,
+        "slug": "blaumeux",
+        "name": "Blaumeux"
+      },
+      {
+        "id": 5002,
+        "slug": "bloodsail-buccaneers",
+        "name": "Bloodsail Buccaneers"
+      },
+      {
+        "id": 5058,
+        "slug": "deviate-delight",
+        "name": "Deviate Delight"
+      },
+      {
+        "id": 5086,
+        "slug": "earthfury",
+        "name": "Earthfury"
+      },
+      {
+        "id": 5003,
+        "slug": "faerlina",
+        "name": "Faerlina"
+      },
+      {
+        "id": 5004,
+        "slug": "fairbanks",
+        "name": "Fairbanks"
+      },
+      {
+        "id": 5064,
+        "slug": "felstriker",
+        "name": "Felstriker"
+      },
+      {
+        "id": 5005,
+        "slug": "grobbulus",
+        "name": "Grobbulus"
+      },
+      {
+        "id": 5089,
+        "slug": "heartseeker",
+        "name": "Heartseeker"
+      },
+      {
+        "id": 5006,
+        "slug": "herod",
+        "name": "Herod"
+      },
+      {
+        "id": 5035,
+        "slug": "incendius",
+        "name": "Incendius"
+      },
+      {
+        "id": 5062,
+        "slug": "kirtonos",
+        "name": "Kirtonos"
+      },
+      {
+        "id": 5055,
+        "slug": "kromcrush",
+        "name": "Kromcrush"
+      },
+      {
+        "id": 5054,
+        "slug": "kurinnaxx",
+        "name": "Kurinnaxx"
+      },
+      {
+        "id": 5098,
+        "slug": "loatheb",
+        "name": "Loatheb"
+      },
+      {
+        "id": 5007,
+        "slug": "mankrik",
+        "name": "Mankrik"
+      },
+      {
+        "id": 5008,
+        "slug": "myzrael",
+        "name": "Myzrael"
+      },
+      {
+        "id": 5080,
+        "slug": "netherwind",
+        "name": "Netherwind"
+      },
+      {
+        "id": 5037,
+        "slug": "old-blanchy",
+        "name": "Old Blanchy"
+      },
+      {
+        "id": 5009,
+        "slug": "pagle",
+        "name": "Pagle"
+      },
+      {
+        "id": 5063,
+        "slug": "rattlegore",
+        "name": "Rattlegore"
+      },
+      {
+        "id": 5010,
+        "slug": "remulos",
+        "name": "Remulos"
+      },
+      {
+        "id": 5028,
+        "slug": "skeram",
+        "name": "Skeram"
+      },
+      {
+        "id": 5059,
+        "slug": "smolderweb",
+        "name": "Smolderweb"
+      },
+      {
+        "id": 5025,
+        "slug": "stalagg",
+        "name": "Stalagg"
+      },
+      {
+        "id": 5121,
+        "slug": "sulthraze",
+        "name": "Sul'thraze"
+      },
+      {
+        "id": 5060,
+        "slug": "sulfuras",
+        "name": "Sulfuras"
+      },
+      {
+        "id": 5011,
+        "slug": "thalnos",
+        "name": "Thalnos"
+      },
+      {
+        "id": 5067,
+        "slug": "thunderfury",
+        "name": "Thunderfury"
+      },
+      {
+        "id": 5038,
+        "slug": "westfall",
+        "name": "Westfall"
+      },
+      {
+        "id": 5012,
+        "slug": "whitemane",
+        "name": "Whitemane"
+      },
+      {
+        "id": 5070,
+        "slug": "windseeker",
+        "name": "Windseeker"
+      },
+      {
+        "id": 5065,
+        "slug": "yojamba",
+        "name": "Yojamba"
+      }
+    ]
+  },
+  {
+    "compactName": "EU",
+    "servers": [
+      {
+        "id": 5066,
+        "slug": "amnennar",
+        "name": "Amnennar"
+      },
+      {
+        "id": 5071,
+        "slug": "ashbringer",
+        "name": "Ashbringer"
+      },
+      {
+        "id": 5019,
+        "slug": "auberdine",
+        "name": "Auberdine"
+      },
+      {
+        "id": 5081,
+        "slug": "bloodfang",
+        "name": "Bloodfang"
+      },
+      {
+        "id": 5108,
+        "slug": "celebras",
+        "name": "Celebras"
+      },
+      {
+        "id": 5075,
+        "slug": "dragons-call",
+        "name": "Dragon's Call"
+      },
+      {
+        "id": 5103,
+        "slug": "dragonfang",
+        "name": "Dragonfang"
+      },
+      {
+        "id": 5072,
+        "slug": "dreadmist",
+        "name": "Dreadmist"
+      },
+      {
+        "id": 5084,
+        "slug": "earthshaker",
+        "name": "Earthshaker"
+      },
+      {
+        "id": 5021,
+        "slug": "everlook",
+        "name": "Everlook"
+      },
+      {
+        "id": 5078,
+        "slug": "finkle",
+        "name": "Finkle"
+      },
+      {
+        "id": 5029,
+        "slug": "firemaw",
+        "name": "Firemaw"
+      },
+      {
+        "id": 5030,
+        "slug": "flamelash",
+        "name": "Flamelash"
+      },
+      {
+        "id": 5031,
+        "slug": "gandling",
+        "name": "Gandling"
+      },
+      {
+        "id": 5026,
+        "slug": "gehennas",
+        "name": "Gehennas"
+      },
+      {
+        "id": 5013,
+        "slug": "golemagg",
+        "name": "Golemagg"
+      },
+      {
+        "id": 5099,
+        "slug": "heartstriker",
+        "name": "Heartstriker"
+      },
+      {
+        "id": 5014,
+        "slug": "hydraxian-waterlords",
+        "name": "Hydraxian Waterlords"
+      },
+      {
+        "id": 5082,
+        "slug": "judgement",
+        "name": "Judgement"
+      },
+      {
+        "id": 5076,
+        "slug": "lakeshire",
+        "name": "Lakeshire"
+      },
+      {
+        "id": 5022,
+        "slug": "lucifron",
+        "name": "Lucifron"
+      },
+      {
+        "id": 5100,
+        "slug": "mandokir",
+        "name": "Mandokir"
+      },
+      {
+        "id": 5015,
+        "slug": "mirage-raceway",
+        "name": "Mirage Raceway"
+      },
+      {
+        "id": 5032,
+        "slug": "mograine",
+        "name": "Mograine"
+      },
+      {
+        "id": 5033,
+        "slug": "nethergarde-keep",
+        "name": "Nethergarde Keep"
+      },
+      {
+        "id": 5057,
+        "slug": "noggenfogger",
+        "name": "Noggenfogger"
+      },
+      {
+        "id": 5097,
+        "slug": "patchwerk",
+        "name": "Patchwerk"
+      },
+      {
+        "id": 5016,
+        "slug": "pyrewood-village",
+        "name": "Pyrewood Village"
+      },
+      {
+        "id": 5096,
+        "slug": "razorfen",
+        "name": "Razorfen"
+      },
+      {
+        "id": 5034,
+        "slug": "razorgore",
+        "name": "Razorgore"
+      },
+      {
+        "id": 5017,
+        "slug": "shazzrah",
+        "name": "Shazzrah"
+      },
+      {
+        "id": 5073,
+        "slug": "skullflame",
+        "name": "Skullflame"
+      },
+      {
+        "id": 5056,
+        "slug": "stonespine",
+        "name": "Stonespine"
+      },
+      {
+        "id": 5020,
+        "slug": "sulfuron",
+        "name": "Sulfuron"
+      },
+      {
+        "id": 5074,
+        "slug": "ten-storms",
+        "name": "Ten Storms"
+      },
+      {
+        "id": 5077,
+        "slug": "transcendence",
+        "name": "Transcendence"
+      },
+      {
+        "id": 5088,
+        "slug": "venoxis",
+        "name": "Venoxis"
+      },
+      {
+        "id": 5018,
+        "slug": "zandalar-tribe",
+        "name": "Zandalar Tribe"
+      },
+      {
+        "id": 5101,
+        "slug": "harbinger-of-doom",
+        "name": "Вестник Рока"
+      },
+      {
+        "id": 5093,
+        "slug": "wyrmthalak",
+        "name": "Змейталак"
+      },
+      {
+        "id": 5024,
+        "slug": "flamegor",
+        "name": "Пламегор"
+      },
+      {
+        "id": 5094,
+        "slug": "rhokdelar",
+        "name": "Рок-Делар"
+      },
+      {
+        "id": 5023,
+        "slug": "chromie",
+        "name": "Хроми"
+      }
+    ]
+  },
+  {
+    "compactName": "KR",
+    "servers": [
+      {
+        "id": 5091,
+        "slug": "ragnaros",
+        "name": "라그나로스"
+      },
+      {
+        "id": 5050,
+        "slug": "lokholar",
+        "name": "로크홀라"
+      },
+      {
+        "id": 5051,
+        "slug": "shimmering-flats",
+        "name": "소금 평원"
+      },
+      {
+        "id": 5090,
+        "slug": "iceblood",
+        "name": "얼음피"
+      },
+      {
+        "id": 5092,
+        "slug": "hillsbrad",
+        "name": "힐스브래드"
+      }
+    ]
+  },
+  {
+    "compactName": "TW",
+    "servers": [
+      {
+        "id": 5052,
+        "slug": "伊弗斯",
+        "name": "伊弗斯"
+      },
+      {
+        "id": 5053,
+        "slug": "瑪拉頓",
+        "name": "瑪拉頓"
+      }
+    ]
+  },
+  {
+    "compactName": "CN",
+    "servers": [
+      {
+        "id": 5179,
+        "slug": "丽丽（四川）",
+        "name": "丽丽（四川）"
+      },
+      {
+        "id": 5176,
+        "slug": "乌洛克",
+        "name": "乌洛克"
+      },
+      {
+        "id": 5168,
+        "slug": "伊森迪奥斯",
+        "name": "伊森迪奥斯"
+      },
+      {
+        "id": 5148,
+        "slug": "伦鲁迪洛尔",
+        "name": "伦鲁迪洛尔"
+      },
+      {
+        "id": 5159,
+        "slug": "光芒",
+        "name": "光芒"
+      },
+      {
+        "id": 5165,
+        "slug": "克罗米",
+        "name": "克罗米"
+      },
+      {
+        "id": 5186,
+        "slug": "冬寒",
+        "name": "冬寒"
+      },
+      {
+        "id": 5141,
+        "slug": "加丁",
+        "name": "加丁"
+      },
+      {
+        "id": 5046,
+        "slug": "匕首岭",
+        "name": "匕首岭"
+      },
+      {
+        "id": 5104,
+        "slug": "卓越",
+        "name": "卓越"
+      },
+      {
+        "id": 5150,
+        "slug": "厄运之槌",
+        "name": "厄运之槌"
+      },
+      {
+        "id": 5156,
+        "slug": "吉兹洛克",
+        "name": "吉兹洛克"
+      },
+      {
+        "id": 5044,
+        "slug": "哈霍兰",
+        "name": "哈霍兰"
+      },
+      {
+        "id": 5155,
+        "slug": "埃提耶什",
+        "name": "埃提耶什"
+      },
+      {
+        "id": 5174,
+        "slug": "塞卡尔",
+        "name": "塞卡尔"
+      },
+      {
+        "id": 5172,
+        "slug": "塞雷布拉斯",
+        "name": "塞雷布拉斯"
+      },
+      {
+        "id": 5139,
+        "slug": "奎尔塞拉",
+        "name": "奎尔塞拉"
+      },
+      {
+        "id": 5039,
+        "slug": "奥罗",
+        "name": "奥罗"
+      },
+      {
+        "id": 5147,
+        "slug": "奥金斧",
+        "name": "奥金斧"
+      },
+      {
+        "id": 5105,
+        "slug": "娅尔罗",
+        "name": "娅尔罗"
+      },
+      {
+        "id": 5133,
+        "slug": "安娜丝塔丽",
+        "name": "安娜丝塔丽"
+      },
+      {
+        "id": 5120,
+        "slug": "审判",
+        "name": "审判"
+      },
+      {
+        "id": 5170,
+        "slug": "寒冰之王",
+        "name": "寒冰之王"
+      },
+      {
+        "id": 5041,
+        "slug": "寒脊山小径",
+        "name": "寒脊山小径"
+      },
+      {
+        "id": 5154,
+        "slug": "巨人追猎者",
+        "name": "巨人追猎者"
+      },
+      {
+        "id": 5180,
+        "slug": "巨龙沼泽",
+        "name": "巨龙沼泽"
+      },
+      {
+        "id": 5129,
+        "slug": "巨龙追猎者",
+        "name": "巨龙追猎者"
+      },
+      {
+        "id": 5142,
+        "slug": "巴罗夫",
+        "name": "巴罗夫"
+      },
+      {
+        "id": 5167,
+        "slug": "布劳缪克丝",
+        "name": "布劳缪克丝"
+      },
+      {
+        "id": 5048,
+        "slug": "布鲁",
+        "name": "布鲁"
+      },
+      {
+        "id": 5153,
+        "slug": "希尔盖",
+        "name": "希尔盖"
+      },
+      {
+        "id": 5085,
+        "slug": "帕奇维克",
+        "name": "帕奇维克"
+      },
+      {
+        "id": 5145,
+        "slug": "席瓦莱恩",
+        "name": "席瓦莱恩"
+      },
+      {
+        "id": 5166,
+        "slug": "弗莱拉斯",
+        "name": "弗莱拉斯"
+      },
+      {
+        "id": 5113,
+        "slug": "德姆塞卡尔",
+        "name": "德姆塞卡尔"
+      },
+      {
+        "id": 5152,
+        "slug": "怀特迈恩",
+        "name": "怀特迈恩"
+      },
+      {
+        "id": 5116,
+        "slug": "怒炉",
+        "name": "怒炉"
+      },
+      {
+        "id": 5175,
+        "slug": "拉姆斯登",
+        "name": "拉姆斯登"
+      },
+      {
+        "id": 5115,
+        "slug": "无尽风暴",
+        "name": "无尽风暴"
+      },
+      {
+        "id": 5158,
+        "slug": "无畏",
+        "name": "无畏"
+      },
+      {
+        "id": 5123,
+        "slug": "曼多基尔",
+        "name": "曼多基尔"
+      },
+      {
+        "id": 5125,
+        "slug": "有狮心",
+        "name": "有狮心"
+      },
+      {
+        "id": 5047,
+        "slug": "木喉要塞",
+        "name": "木喉要塞"
+      },
+      {
+        "id": 5137,
+        "slug": "末日之刃",
+        "name": "末日之刃"
+      },
+      {
+        "id": 5117,
+        "slug": "毁灭之刃",
+        "name": "毁灭之刃"
+      },
+      {
+        "id": 5131,
+        "slug": "比斯巨兽",
+        "name": "比斯巨兽"
+      },
+      {
+        "id": 5083,
+        "slug": "比格沃斯",
+        "name": "比格沃斯"
+      },
+      {
+        "id": 5135,
+        "slug": "水晶之牙",
+        "name": "水晶之牙"
+      },
+      {
+        "id": 5040,
+        "slug": "沙尔图拉",
+        "name": "沙尔图拉"
+      },
+      {
+        "id": 5130,
+        "slug": "沙顶 ",
+        "name": "沙顶 "
+      },
+      {
+        "id": 5128,
+        "slug": "法尔班克斯",
+        "name": "法尔班克斯"
+      },
+      {
+        "id": 5177,
+        "slug": "法拉克斯",
+        "name": "法拉克斯"
+      },
+      {
+        "id": 5162,
+        "slug": "法琳娜",
+        "name": "法琳娜"
+      },
+      {
+        "id": 5184,
+        "slug": "流沙岗哨",
+        "name": "流沙岗哨"
+      },
+      {
+        "id": 5164,
+        "slug": "湖畔镇",
+        "name": "湖畔镇"
+      },
+      {
+        "id": 5157,
+        "slug": "火锤",
+        "name": "火锤"
+      },
+      {
+        "id": 5087,
+        "slug": "灰烬使者",
+        "name": "灰烬使者"
+      },
+      {
+        "id": 5132,
+        "slug": "灵风",
+        "name": "灵风"
+      },
+      {
+        "id": 5127,
+        "slug": "狂野之刃",
+        "name": "狂野之刃"
+      },
+      {
+        "id": 5124,
+        "slug": "狮心",
+        "name": "狮心"
+      },
+      {
+        "id": 5185,
+        "slug": "甲虫之墙",
+        "name": "甲虫之墙"
+      },
+      {
+        "id": 5042,
+        "slug": "碧玉矿洞",
+        "name": "碧玉矿洞"
+      },
+      {
+        "id": 5106,
+        "slug": "碧空之歌",
+        "name": "碧空之歌"
+      },
+      {
+        "id": 5136,
+        "slug": "祈福",
+        "name": "祈福"
+      },
+      {
+        "id": 5183,
+        "slug": "神谕林地",
+        "name": "神谕林地"
+      },
+      {
+        "id": 5146,
+        "slug": "秩序之源",
+        "name": "秩序之源"
+      },
+      {
+        "id": 5138,
+        "slug": "维克尼拉斯",
+        "name": "维克尼拉斯"
+      },
+      {
+        "id": 5178,
+        "slug": "维克托",
+        "name": "维克托"
+      },
+      {
+        "id": 5134,
+        "slug": "维克洛尔",
+        "name": "维克洛尔"
+      },
+      {
+        "id": 5045,
+        "slug": "维希度斯",
+        "name": "维希度斯"
+      },
+      {
+        "id": 5109,
+        "slug": "艾隆纳亚",
+        "name": "艾隆纳亚"
+      },
+      {
+        "id": 5049,
+        "slug": "范克瑞斯",
+        "name": "范克瑞斯"
+      },
+      {
+        "id": 5160,
+        "slug": "范沃森",
+        "name": "范沃森"
+      },
+      {
+        "id": 5111,
+        "slug": "莫格莱尼",
+        "name": "莫格莱尼"
+      },
+      {
+        "id": 5107,
+        "slug": "萨弗拉斯",
+        "name": "萨弗拉斯"
+      },
+      {
+        "id": 5163,
+        "slug": "萨弗隆",
+        "name": "萨弗隆"
+      },
+      {
+        "id": 5118,
+        "slug": "觅心者",
+        "name": "觅心者"
+      },
+      {
+        "id": 5161,
+        "slug": "诺克赛恩",
+        "name": "诺克赛恩"
+      },
+      {
+        "id": 5119,
+        "slug": "诺格弗格",
+        "name": "诺格弗格"
+      },
+      {
+        "id": 5140,
+        "slug": "赫洛德",
+        "name": "赫洛德"
+      },
+      {
+        "id": 5126,
+        "slug": "辛洛斯",
+        "name": "辛洛斯"
+      },
+      {
+        "id": 5043,
+        "slug": "辛迪加",
+        "name": "辛迪加"
+      },
+      {
+        "id": 5102,
+        "slug": "迈克斯纳",
+        "name": "迈克斯纳"
+      },
+      {
+        "id": 5151,
+        "slug": "阿什坎迪",
+        "name": "阿什坎迪"
+      },
+      {
+        "id": 5181,
+        "slug": "阿拉希盆地",
+        "name": "阿拉希盆地"
+      },
+      {
+        "id": 5171,
+        "slug": "阿鲁高",
+        "name": "阿鲁高"
+      },
+      {
+        "id": 5112,
+        "slug": "雷德",
+        "name": "雷德"
+      },
+      {
+        "id": 5144,
+        "slug": "雷霆之击",
+        "name": "雷霆之击"
+      },
+      {
+        "id": 5122,
+        "slug": "震地者",
+        "name": "震地者"
+      },
+      {
+        "id": 5114,
+        "slug": "霜语",
+        "name": "霜语"
+      },
+      {
+        "id": 5110,
+        "slug": "骨火",
+        "name": "骨火"
+      },
+      {
+        "id": 5149,
+        "slug": "黑曜石之峰",
+        "name": "黑曜石之峰"
+      },
+      {
+        "id": 5173,
+        "slug": "黑曜石之锋",
+        "name": "黑曜石之锋"
+      },
+      {
+        "id": 5182,
+        "slug": "黑石山",
+        "name": "黑石山"
+      },
+      {
+        "id": 5143,
+        "slug": "龙之召唤",
+        "name": "龙之召唤"
+      },
+      {
+        "id": 5169,
+        "slug": "龙牙",
+        "name": "龙牙"
+      }
+    ]
+  }
+]
