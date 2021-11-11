@@ -1,124 +1,147 @@
 [
   {
-    "name": "Karazhan",
-    "slug": "karazhan",
-    "bosses": [
-      {
-        "id": 652,
-        "name": "Attumen the Huntsman"
-      },
-      {
-        "id": 653,
-        "name": "Moroes"
-      },
-      {
-        "id": 654,
-        "name": "Maiden of Virtue"
-      },
-      {
-        "id": 655,
-        "name": "Opera Hall"
-      },
-      {
-        "id": 656,
-        "name": "The Curator"
-      },
-      {
-        "id": 657,
-        "name": "Terestian Illhoof"
-      },
-      {
-        "id": 658,
-        "name": "Shade of Aran"
-      },
-      {
-        "id": 659,
-        "name": "Netherspite"
-      },
-      {
-        "id": 661,
-        "name": "Prince Malchezaar"
-      },
-      {
-        "id": 662,
-        "name": "Nightbane"
-      }
-    ]
+      "name": "Karazhan",
+      "slug": "karazhan",
+      "bosses": [
+          {
+              "id": 652,
+              "name": "Attumen the Huntsman",
+              "slug": "attumen-the-huntsman"
+          },
+          {
+              "id": 653,
+              "name": "Moroes",
+              "slug": "moroes"
+          },
+          {
+              "id": 654,
+              "name": "Maiden of Virtue",
+              "slug": "maiden-of-virtue"
+          },
+          {
+              "id": 655,
+              "name": "Opera Hall",
+              "slug": "opera-hall"
+          },
+          {
+              "id": 656,
+              "name": "The Curator",
+              "slug": "the-curator"
+          },
+          {
+              "id": 657,
+              "name": "Terestian Illhoof",
+              "slug": "terestian-illhoof"
+          },
+          {
+              "id": 658,
+              "name": "Shade of Aran",
+              "slug": "shade-of-aran"
+          },
+          {
+              "id": 659,
+              "name": "Netherspite",
+              "slug": "netherspite"
+          },
+          {
+              "id": 661,
+              "name": "Prince Malchezaar",
+              "slug": "prince-malchezaar"
+          },
+          {
+              "id": 662,
+              "name": "Nightbane",
+              "slug": "nightbane"
+          }
+      ]
   },
   {
-    "name": "Magtheridon's Lair",
-    "slug": "magtheridons-lair",
-    "bosses": [
-      {
-        "id": 651,
-        "name": "Magtheridon"
-      }
-    ]
+      "name": "Magtheridon's Lair",
+      "slug": "magtheridons-lair",
+      "bosses": [
+          {
+              "id": 651,
+              "name": "Magtheridon",
+              "slug": "magtheridon"
+          }
+      ]
   },
   {
-    "name": "Gruul's Lair",
-    "slug": "gruuls-lair",
-    "bosses": [
-      {
-        "id": 649,
-        "name": "High King Maulgar"
-      },
-      {
-        "id": 650,
-        "name": "Gruul the Dragonkiller"
-      }
-    ]
+      "name": "Gruul's Lair",
+      "slug": "gruuls-lair",
+      "bosses": [
+          {
+              "id": 649,
+              "name": "High King Maulgar",
+              "slug": "high-king-maulgar"
+          },
+          {
+              "id": 650,
+              "name": "Gruul the Dragonkiller",
+              "slug": "gruul-the-dragonkiller"
+          }
+      ]
   },
   {
-    "name": "Serpentshrine Cavern",
-    "slug": "serpentshrine-cavern",
-    "bosses": [
-      {
-        "id": 623,
-        "name": "Hydross the Unstable"
-      },
-      {
-        "id": 624,
-        "name": "The Lurker Below"
-      },
-      {
-        "id": 625,
-        "name": "Leotheras the Blind"
-      },
-      {
-        "id": 626,
-        "name": "Fathom-Lord Karathress"
-      },
-      {
-        "id": 627,
-        "name": "Morogrim Tidewalker"
-      },
-      {
-        "id": 628,
-        "name": "Lady Vashj"
-      }
-    ]
+      "name": "Serpentshrine Cavern",
+      "slug": "serpentshrine-cavern",
+      "bosses": [
+          {
+              "id": 623,
+              "name": "Hydross the Unstable",
+              "slug": "hydross-the-unstable"
+          },
+          {
+              "id": 624,
+              "name": "The Lurker Below",
+              "slug": "the-lurker-below"
+          },
+          {
+              "id": 625,
+              "name": "Leotheras the Blind",
+              "slug": "leotheras-the-blind"
+          },
+          {
+              "id": 626,
+              "name": "Fathom-Lord Karathress",
+              "slug": "fathom-lord-karathress"
+          },
+          {
+              "id": 627,
+              "name": "Morogrim Tidewalker",
+              "slug": "morogrim-tidewalker"
+          },
+          {
+              "id": 628,
+              "name": "Lady Vashj",
+              "slug": "lady-vashj"
+          }
+      ]
   },
   {
-    "name": "Tempest Keep",
-    "slug": "tempest-keep",
-    "bosses": [
-      {
-        "id": 730,
-        "name": "Al'ar"
-      },
-      {
-        "id": 731,
-        "name": "Void Reaver"
-      },
-      {
-        "id": 732,
-        "name": "High Astromancer Solarian"
-      },
-      {
-        "id": 733,
-        "name": "Kael'thas Sunstrider"
-      }
-    ]
+      "name": "Tempest Keep",
+      "slug": "tempest-keep",
+      "bosses": [
+          {
+              "id": 730,
+              "name": "Al'ar",
+              "slug": "alar"
+          },
+          {
+              "id": 731,
+              "name": "Void Reaver",
+              "slug": "void-reaver"
+          },
+          {
+              "id": 732,
+              "name": "High Astromancer Solarian",
+              "slug": "high-astromancer-solarian"
+          },
+          {
+              "id": 733,
+              "name": "Kael'thas Sunstrider",
+              "slug": "kaelthas-sunstrider"
+          }
+      ]
   }
 ]

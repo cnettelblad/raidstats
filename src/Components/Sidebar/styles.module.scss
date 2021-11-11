@@ -3,4 +3,13 @@
   background: darken(#282c34, 5%);
   align-self: stretch;
   padding: 10vh 5px;
+  h2 {
+    text-align: center;
+    font-size: 2em;
+    sub {
+      display: block;
+      color: white;
+      font-size: 0.5em;
+    }
+  }
 }

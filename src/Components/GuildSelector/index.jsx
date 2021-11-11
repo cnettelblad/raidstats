@@ -1,18 +1,23 @@
-import React, {useState} from 'react'
-import GuildService from 'Services/GuildService'
+import React, {useContext, useState} from 'react'
+import NetworkService from 'Services/NetworkService'
 import serverList from '../../assets/servers.json'
+import { GuildContext } from 'Contexts/GuildContext'
 import styles from './styles.module.scss'
 
 const GuildSelector = () => {
   const [region, setRegion] = useState(null)
   const [server, setServer] = useState(null)
   const [guildName, setGuildName] = useState(null)
+  const [loading, setLoading] = useState(false)
+
+  const { updateGuild } = useContext(GuildContext)
 
   const handleForm = async (event) => {
     event.preventDefault()
-    const service = new GuildService()
-    await service.retrieveGuild(region.compactName, server.name, guildName)
-    console.log(service)
+    setLoading(true)
+    const { guild } = await NetworkService.get('guild', region.compactName, server.name, guildName)
+    updateGuild(guild)
+    setLoading(false)
   }
 
   return (
@@ -46,7 +51,7 @@ const GuildSelector = () => {
           onChange={(e) => setGuildName(e.target.value)} disabled={!server}
         />
       </label>
-      <button disabled={!guildName}>Submit</button>
+      <button disabled={!guildName || loading}>Submit</button>
     </form>
   )
 }

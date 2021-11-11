@@ -2,9 +2,9 @@ import axios from "axios"
 
 export default class ReportService
 {
-  constructor()
+  constructor(GuildService)
   {
-    this._guild = null
+    this._guild = GuildService
     this._reports = []
   }
 
